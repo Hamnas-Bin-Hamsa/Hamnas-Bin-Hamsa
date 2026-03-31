@@ -82,7 +82,7 @@ I am a dedicated **Cybersecurity Student** with a laser focus on **Penetration T
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamnas-Bin-Hamsa&show_icons=true&theme=tokyonight" alt="Hamnas's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamnas-Bin-Hamsa&show_icons=true&theme=tokyonight"
 </p>
 
 <p align="center">
