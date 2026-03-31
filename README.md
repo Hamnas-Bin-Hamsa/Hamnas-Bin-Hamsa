@@ -1,78 +1,90 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-
-    
-</head>
-<body>
-
 <header>
     <h1>Hamnas.k</h1>
-    <p class="subtitle">Cybersecurity Student | Pentesting Enthusiast</p>
-</header>
+<div align="center">
+  <h1>Hi, I'm Hamnas.k 👋</h1>
+  <p align="center">
+    <strong>Cybersecurity Student | Aspiring Penetration Tester | CCEP Certified</strong>
+  </p>
 
-<section class="about">
-    <h2>About Me</h2>
-    <p>
-        I am a passionate cybersecurity student with a strong focus on penetration testing and ethical hacking. 
-        I actively practice real-world attack scenarios through platforms like TryHackMe and Hack The Box. 
-        With hands-on experience in various security tools and Linux environments, I am continuously improving 
-        my skills to become a professional security researcher.
-    </p>
-</section>
+  <!-- Social Badges -->
+  <p>
+    <a href="https://www.linkedin.com/in/hamnas-k-838550375" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:hamnasbinhamsa@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/Hamnas-Bin-Hamsa">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
+</div>
 
-<section class="skills">
-    <h2>Skills</h2>
-    <ul>
-        <li>Web Application Pentesting</li>
-        <li>Network Security</li>
-        <li>Vulnerability Assessment</li>
-        <li>Linux Command Line</li>
-    </ul>
-</section>
+---
 
-<section class="tools">
-    <h2>Tools</h2>
-    <ul>
-        <li>Wireshark</li>
-        <li>Metasploit</li>
-        <li>Nmap</li>
-        <li>Burp Suite</li>
-        <li>Splunk</li>
-    </ul>
-</section>
+### 🛡️ Professional Summary
+I am a dedicated **Cybersecurity Student** with a laser focus on **Penetration Testing**. As a **Certified Cybersecurity Educator Professional (CCEP)**, I bridge the gap between technical execution and security awareness. I spend my time breaking down boxes, analyzing traffic, and building secure environments in my virtual labs.
 
-<section class="experience">
-    <h2>Practical Experience</h2>
-    <ul>
-        <li>Completed 20+ labs on TryHackMe</li>
-        <li>Completed 5+ machines on Hack The Box</li>
-        <li>Focused practice on real-world pentesting scenarios</li>
-        <li>Using VirtualBox for lab environments</li>
-    </ul>
-</section>
+- 🔭 **Currently Learning:** Advanced Exploitation Techniques & Python for Security.
+- ⚡ **Fun Fact:** I've conquered 20+ TryHackMe rooms and am actively pwn-ing machines on HackTheBox.
 
-<section class="certifications">
-    <h2>Certifications</h2>
-    <p>Certified Cybersecurity Educator Professional (CCEP)</p>
-</section>
+---
 
-<section class="learning">
-    <h2>Currently Learning</h2>
-    <p>Advanced penetration testing techniques and real-world exploitation methods.</p>
-</section>
+### 🛠️ Technical Arsenal
 
-<section class="contact">
-    <h2>Contact</h2>
-    <p>Email: <a href="mailto:hamnasbinhamsa@gmail.com">hamnasbinhamsa@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://www.linkedin.com/in/hamnas-k-838550375" target="_blank">View Profile</a></p>
-    <p>GitHub: <a href="https://github.com/Hamnas-Bin-Hamsa" target="_blank">View Projects</a></p>
-</section>
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+      <br>Linux / Bash
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkproxy/networkproxy-original.svg" width="40" height="40" alt="Nmap" />
+      <br>Nmap / Scanning
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" height="40" alt="Wireshark" />
+      <br>Wireshark
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" width="40" height="40" alt="Metasploit" />
+      <br>Metasploit
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/detomon/burp-suite-logo/master/burp-suite-logo-1.png" width="40" height="40" alt="Burp Suite" />
+      <br>Burp Suite
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="40" height="40" alt="Splunk" />
+      <br>Splunk (SIEM)
+    </td>
+    <td align="center" width="150">
+      <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="40" height="40" alt="VirtualBox" />
+      <br>VirtualBox
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.icons8.com/color/48/000000/shield.png" width="40" height="40" alt="CCEP" />
+      <br>CCEP Certified
+    </td>
+  </tr>
+</table>
 
-<footer>
-    <p>© 2026 Hamnas.k | Cybersecurity Portfolio</p>
-</footer>
+---
 
-</body>
-</html>
+### 🚩 Capture The Flag (CTF) Stats
+*   **TryHackMe:** 20+ Labs Completed (Ranked in the top percentage of users).
+*   **HackTheBox:** Successfully compromised 5+ Machines, including **Soulmate**.
+*   **Lab Environment:** Running a dedicated offensive/defensive lab via **VirtualBox**.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamnas-Bin-Hamsa&show_icons=true&theme=tokyonight" alt="Hamnas's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Security Quote" />
+</p>
