@@ -22,7 +22,7 @@
 
 ---
 
-### 🛡️ Professional Summary
+### 🛡️ About Me
 I am a dedicated **Cybersecurity Student** with a laser focus on **Penetration Testing**. As a **Certified Cybersecurity Educator Professional (CCEP)**, I bridge the gap between technical execution and security awareness. I spend my time breaking down boxes, analyzing traffic, and building secure environments in my virtual labs.
 
 - 🔭 **Currently Learning:** Advanced Exploitation Techniques & Python for Security.
