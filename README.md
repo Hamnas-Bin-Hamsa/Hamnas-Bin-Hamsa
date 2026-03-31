@@ -79,12 +79,12 @@ I am a dedicated **Cybersecurity Student** with a laser focus on **Penetration T
 *   **Lab Environment:** Running a dedicated offensive/defensive lab via **VirtualBox**.
 
 ---
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamnas-Bin-Hamsa&show_icons=true&theme=tokyonight"
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamnas-Bin-Hamsa&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamnas-Bin-Hamsa&theme=dark" />
 </p>
 
+---
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Security Quote" />
 </p>
